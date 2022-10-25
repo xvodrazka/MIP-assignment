@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.27)  27 SEP 2022 09:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.27)  25 OCT 2022 09:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,12 +6,6 @@ entering extended mode
 (clanok.tex
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-08-30>
-(C:\Users\Messiah\AppData\Local\Programs\MiKTeX\tex/latex/coursepaper\coursepap
-er.cls
-Document Class: coursepaper 2003/08/19 v2.0
-(C:\Users\Messiah\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
-Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
-)
 (C:\Users\Messiah\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (C:\Users\Messiah\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
@@ -28,7 +22,7 @@ File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
-))
+)
 (C:\Users\Messiah\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2022/09/17 3.80 The Babel package
 \babel@savecnt=\count193
@@ -53,7 +47,22 @@ Package babel Info: Making " an active character on input line 126.
 Package babel Info: Making ' an active character on input line 129.
 \cs@wordlen=\count195
 Package babel Info: Making - an active character on input line 294.
+)
+(C:\Users\Messiah\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english
+.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
 ))
+(C:\Users\Messiah\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\bab
+el-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
 (C:\Users\Messiah\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/sk\bab
 el-slovak.tex
 Package babel Info: Importing font and identification data for slovak
@@ -318,26 +327,20 @@ Package hyperref Info: Link coloring OFF on input line 29.
 \@outlinefile=\write3
 \openout3 = `clanok.out'.
 
-LaTeX Font Info:    Trying to load font information for IL2+cmss on input line 
-32.
-
-(C:\Users\Messiah\AppData\Local\Programs\MiKTeX\tex/cslatex/base\il2cmss.fd
-File: il2cmss.fd 1997/02/13 CsLaTeX font definitions
-)
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <17.28> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 32.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 32.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 32.
 LaTeX Font Info:    Trying to load font information for IL2+cmtt on input line 
 32.
 
 (C:\Users\Messiah\AppData\Local\Programs\MiKTeX\tex/cslatex/base\il2cmtt.fd
 File: il2cmtt.fd 1997/08/20 CSLaTeX font definitions
 )
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 32.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -346,43 +349,41 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [1
 
 {C:/Users/Messiah/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-(newTexFile.tex [2]) (clanok.bbl [3]) [4] (clanok.aux)
+(newTexFile.tex [2]) (clanok.bbl) [3] (clanok.aux)
 Package rerunfilecheck Info: File `clanok.out' has not changed.
-(rerunfilecheck)             Checksum: 4149926C144B51395EC4EA0F6BD8723D;1240.
+(rerunfilecheck)             Checksum: F2AC58DBF24DDEBDDE71AE6EC915C8F7;1136.
  ) 
 Here is how much of TeX's memory you used:
- 9988 strings out of 475389
- 161629 string characters out of 2776056
- 515080 words of memory out of 3000000
- 31191 multiletter control sequences out of 15000+600000
- 483055 words of font info for 60 fonts, out of 8000000 for 9000
+ 9896 strings out of 475389
+ 160130 string characters out of 2776056
+ 517075 words of memory out of 3000000
+ 31104 multiletter control sequences out of 15000+600000
+ 482597 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,8n,77p,763b,605s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,8n,77p,763b,541s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\Messiah\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600
-\csr6.pk> <C:\Users\Messiah\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dp
-i600\tcrm1000.pk> <C:\Users\Messiah\AppData\Local\MiKTeX\fonts/pk/ljfour/public
-/csfonts/dpi600\csbx10.pk> <C:\Users\Messiah\AppData\Local\MiKTeX\fonts/pk/ljfo
-ur/public/csfonts/dpi600\csti10.pk> <C:\Users\Messiah\AppData\Local\MiKTeX\font
-s/pk/ljfour/public/csfonts/dpi600\csr7.pk> <C:\Users\Messiah\AppData\Local\MiKT
-eX\fonts/pk/ljfour/public/csfonts/dpi600\cstt10.pk> <C:\Users\Messiah\AppData\L
-ocal\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cssl10.pk> <C:\Users\Messiah\
-AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr8.pk> <C:\Users\M
-essiah\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:
-\Users\Messiah\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr10
-.pk> <C:\Users\Messiah\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi6
-00\csbx12.pk> <C:\Users\Messiah\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csf
-onts/dpi600\csr9.pk> <C:\Users\Messiah\AppData\Local\MiKTeX\fonts/pk/ljfour/pub
-lic/csfonts/dpi600\csbx9.pk> <C:\Users\Messiah\AppData\Local\MiKTeX\fonts/pk/lj
-four/public/csfonts/dpi600\csss10.pk> <C:\Users\Messiah\AppData\Local\MiKTeX\fo
-nts/pk/ljfour/public/csfonts/dpi600\cstt9.pk> <C:\Users\Messiah\AppData\Local\M
-iKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csss9.pk> <C:\Users\Messiah\AppData
-\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csss12.pk> <C:\Users\Messia
-h\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\User
-s\Messiah\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csss17.pk>
-
-Output written on clanok.pdf (4 pages, 147328 bytes).
+\csbx10.pk> <C:\Users\Messiah\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/
+dpi600\tcrm1000.pk> <C:\Users\Messiah\AppData\Local\MiKTeX\fonts/pk/ljfour/publ
+ic/csfonts/dpi600\csbx12.pk> <C:\Users\Messiah\AppData\Local\MiKTeX\fonts/pk/lj
+four/public/csfonts/dpi600\cssl10.pk> <C:\Users\Messiah\AppData\Local\MiKTeX\fo
+nts/pk/ljfour/public/csfonts/dpi600\csr6.pk> <C:\Users\Messiah\AppData\Local\Mi
+KTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr8.pk> <C:\Users\Messiah\AppData\L
+ocal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\Messiah\A
+ppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csti10.pk> <C:\Users\
+Messiah\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr7.pk> <C:
+\Users\Messiah\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt1
+0.pk> <C:\Users\Messiah\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi
+600\csr10.pk> <C:\Users\Messiah\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csf
+onts/dpi720\csbx12.pk> <C:\Users\Messiah\AppData\Local\MiKTeX\fonts/pk/ljfour/p
+ublic/csfonts/dpi600\csbx9.pk> <C:\Users\Messiah\AppData\Local\MiKTeX\fonts/pk/
+ljfour/public/csfonts/dpi600\cstt9.pk> <C:\Users\Messiah\AppData\Local\MiKTeX\f
+onts/pk/ljfour/public/csfonts/dpi600\csr9.pk> <C:\Users\Messiah\AppData\Local\M
+iKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr12.pk> <C:\Users\Messiah\AppData
+\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Messiah
+\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr17.pk>
+Output written on clanok.pdf (3 pages, 147425 bytes).
 PDF statistics:
- 542 PDF objects out of 1000 (max. 8388607)
- 27 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 527 PDF objects out of 1000 (max. 8388607)
+ 26 named destinations out of 1000 (max. 500000)
+ 73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
